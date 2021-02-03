@@ -3,3 +3,5 @@ esta es la biografio de Jonathan Olmedo Perez
 Tiene 21 años y es de Mexico
 
 Actualmente esta estudiando en platzi
+
+y esta estudiando el curso profesional de git y github
