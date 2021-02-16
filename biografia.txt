@@ -1,8 +1,7 @@
+Mi nombre es Jonathan Olmedo Perez
 
-Esta es la biografia de Jonathan Olmedo Perez
+tengo 21 años
 
-Tiene 21 años y es de Mexico
+Estoy estudiando en platzi
 
-Actualmente esta estudiando en platzi
-
-y esta estudiando el curso profesional de git y github
+en el curso profesional de git y github
