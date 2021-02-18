@@ -6,4 +6,6 @@ Estoy estudiando en platzi
 
 Master 1
 
+Master 2
+
 en el curso profesional de git y github
