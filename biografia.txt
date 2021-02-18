@@ -4,4 +4,6 @@ tengo 21 años
 
 Estoy estudiando en platzi
 
+Master 1
+
 en el curso profesional de git y github
